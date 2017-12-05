@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.title{
+    padding: 5% 5% 0% 0%;
+    margin: 0;
+}
+.subtitle{
+    font-size: 1.2em;
+    padding: 0% 5% 5% 0%;
+}
+.img-panda{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    filter: grayscale(100%);
+}
+.background-img{
+    padding: 0;
+    margin: 0;
+}
+.row .background-img{
+    padding: 0;
+    height: 100vh;
+}
+.color{
+    background-color: #aed581;
+    border-top: 15px solid #f78e69;
+    width: 100%;
+    border-bottom: 15px solid #f78e69;
+}
+.container-text{
+    background-color: #f78e69;
+    margin: 5% 30% 5% 30%;
+    padding: 3%;
+}
+.pandas{
+    border: 10px solid white;
+    margin-bottom: 25%;
+}
+.pictures{
+    padding: 2%;
+}
